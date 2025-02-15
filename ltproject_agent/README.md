@@ -6,7 +6,7 @@
 
 ## 実行環境
 
-- **OS:** Windows 11 / Ubuntu 22.04 / macOS Ventura 13.4  
+- **OS:** Windows 10 
 - **Java:**  
 java 17.0.8 2023-07-18 LTS Java(TM) SE Runtime Environment (build 17.0.8+9-LTS-211) Java HotSpot(TM) 64-Bit Server VM (build 17.0.8+9-LTS-211, mixed mode, sharing)
 
